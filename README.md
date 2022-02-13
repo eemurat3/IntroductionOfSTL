@@ -1,7 +1,7 @@
 - [Introduction of STL](#ios)
     - [Introduction of Templates](#iotemplate)
         - [Template Function](#ftemplate)
-        - [Template class](#ctamplate)
+        - [Template class](#ctemplate)
 
 # Introduction of STL
 ## Introduction of Template
