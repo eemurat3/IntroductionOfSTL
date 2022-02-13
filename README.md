@@ -34,9 +34,9 @@ when we call again square function with 5.5, output is true. this code gets your
 cout<< square(5.5);
 output : 30.25
 ```
-suppose the later on ı wan to computing square of a long or square of a float or square of a complex.
+suppose the later on ı want to computing square of a long or square of a float or square of a complex.
 I have to make a duplicate of the square function for each one of the data type. 
-This make ouk code ugly and we do not want that and this is why we need a template.
+This make our code ugly and we do not want that and this is why we need a template.
 with template we only need one of the square function code. for this  we need to do square 
 function is make template
 
