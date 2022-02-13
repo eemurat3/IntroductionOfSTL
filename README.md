@@ -24,7 +24,7 @@ output : 25
 ```
 this output is wrong because square function only works with integer. solving
 for this problem we have to make copy square fuction and change the type to double. 
-``````cpp
+```cpp
 double square(double x) {
     return x * x;
 }
@@ -40,7 +40,7 @@ This make ouk code ugly and we do not want that and this is why we need a templa
 with template we only need one of the square function code. for this  we need to do square 
 function is make template
 
-``````cpp
+```cpp
 template <typename T>
 T square(T x) {
     return x * x;
